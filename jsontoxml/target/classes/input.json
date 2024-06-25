@@ -1,0 +1,9 @@
+{
+    "name": "John",
+    "age": 30,
+    "isStudent": true,
+    "address": null,
+    "scores": [100, 90, 95],
+    "isEmployed": false
+  }
+  

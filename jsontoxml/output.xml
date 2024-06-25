@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><object><string name="name">John</string><number name="age">30</number><boolean name="isStudent">true</boolean><null name="address"/><object name="scores"><item>100</item><item>90</item><item>95</item></object><boolean name="isEmployed">false</boolean></object>
